@@ -21,7 +21,7 @@ INSTALLED_APPS = [
     # other apps...
     'blog',  # Add your new app here
 ]
-CD to the same folder as the manage.py file then...
+CD to the same folder as the manage.py file then... "my_site"
 6. Run `python3 manage.py runserver`
 ----------------------------------------------------------------------------------
 Settings.py
